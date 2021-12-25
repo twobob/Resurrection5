@@ -1,0 +1,23 @@
+; source file ppC2.het
+;
+; number of harmonics (amp/frq track pairs)
+; 10
+;
+f0	0	16	-2
+872
+4976
+6008
+5001
+4966
+2399
+1246
+2148
+2138
+3728
+0
+0
+0
+0
+0
+0
+;
